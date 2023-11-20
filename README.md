@@ -21,7 +21,7 @@ To use this letterheaded paper template and explore the styling techniques, foll
 - `index.html`: The main HTML file containing the letterheaded paper structure.
 - `style.css`: The CSS file providing styles for the letter and logo.
 
-## Authors
+## Author
 
 - Sunil K Joseph, Asst. Professor, Dept. of Computer Science, Mar Augusthinose College, Ramapuram.
 
